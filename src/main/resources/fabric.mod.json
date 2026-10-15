@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "lanterns",
+  "version": "${version}",
+  "name": "Lanterns: Shadows of the Corps",
+  "description": "A multiplayer murder-mystery / social-deduction mod. Two hidden Manhunters, one secret Green Lantern ring, meetings, votes and bluffing.",
+  "authors": ["You"],
+  "license": "MIT",
+  "icon": "assets/lanterns/textures/item/power_ring_3d.png",
+  "environment": "*",
+  "accessWidener": "lanterns.accesswidener",
+  "mixins": ["lanterns.mixins.json"],
+  "entrypoints": { "main": ["com.lanterns.LanternsMod"], "client": ["com.lanterns.LanternsClient"] },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

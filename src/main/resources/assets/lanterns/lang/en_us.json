@@ -1,0 +1,9 @@
+{
+  "item.lanterns.power_ring": "Power Ring",
+  "item.lanterns.power_ring.tooltip1": "A ring of unknown origin.",
+  "item.lanterns.power_ring.tooltip2": "Its secrets belong only to its bearer.",
+  "item.lanterns.power_ring.tooltip3": "Right-click: use  |  Sneak + Right-click: change mode",
+  "item.lanterns.blackout_core": "Blackout Core",
+  "item.lanterns.blackout_core.tooltip1": "A crystal that drinks the light.",
+  "item.lanterns.blackout_core.tooltip2": "Right-click: use current mode (Blackout / Shapeshift)  |  Sneak + Right-click: switch mode"
+}
